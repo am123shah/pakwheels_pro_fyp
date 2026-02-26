@@ -23,7 +23,3 @@
 ​Run flutter pub get to install dependencies.
 ​Ensure you have a valid google-services.json in the android/app directory.
 ​Use flutter run to launch the app on your emulator or device.
-​Evaluation ke liye Final Checklist:
-​GitHub Link: Examiner ko dikhane ke liye ready rakhein.
-​Admin PIN: Yaad rakhein 1234.
-​Database Console: Browser mein Firebase console khol kar rakhein taake aap Real-time change dikha saken.
